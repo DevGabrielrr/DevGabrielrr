@@ -17,10 +17,12 @@
    <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg "alt =" bootstrap "width ="50"height ="50"> 
    <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg "alt ="php" width ="50" height ="50"> 
    <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql" width ="50"height ="50"> 
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt ="git" width ="40" height ="40"> 
+
 
  </div>
   
-  ##
+  ##SKILLS
   
   <div>
     <a href="https://www.instagram.com/bieelrodriguez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
