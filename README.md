@@ -5,14 +5,15 @@
 
 <p>Como desenvolvedor júnior, tenho habilidades sólidas em HTML, CSS, JavaScript, Tailwind, Git, PHP e MySQL, além de familiaridade com Twig e Bootstrap. Minha paixão pela tecnologia me impulsiona a aprender e crescer constantemente, e essa jornada começou em 2021, quando dei meus primeiros passos na programação. Estou comprometido em expandir meu conhecimento e contribuir de forma significativa para projetos desafiadores.</p>
 
-
+<br>
 <div align="center">
   <a href="https://github.com/DevGabrielrr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGabrielrr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielrr&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<br>
     
-    ## 💻 Technologies & Tools
+## 💻 Technologies & Tools
 
 <p align="center">
 
@@ -27,9 +28,9 @@
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql" width ="50"height ="50"> 
 </p>
   
-  <hr>
     
-####I have experience:
+##I have experience:
+
 ![Git](https://img.shields.io/badge/git-545967?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Github](https://img.shields.io/badge/github-545967?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-545967?style=for-the-badge&logo=php&logoColor=white)&nbsp;
@@ -42,7 +43,7 @@
 ![Mysql](https://img.shields.io/badge/mysql-545967?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
-#### Studying in this moment:
+## Studying in this moment:
 ![Python](https://img.shields.io/badge/Python-545967?style=for-the-badge&logo=python&logoColor=white)&nbsp;
  
 </div>
