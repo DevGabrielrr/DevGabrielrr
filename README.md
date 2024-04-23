@@ -2,6 +2,7 @@
 
 
 ### Olá! Sou Gabriel Ribeiro 👨‍💻
+#Como desenvolvedor júnior, tenho habilidades sólidas em HTML, CSS, JavaScript, Git, PHP e MySQL, além de familiaridade com Twig, Tailwind e Bootstrap. Minha paixão pela tecnologia me impulsiona a aprender e crescer constantemente, e essa jornada começou em 2021, quando dei meus primeiros passos na programação. Estou comprometido em expandir meu conhecimento e contribuir de forma significativa para projetos desafiadores.
 
 
 <div align="center">
