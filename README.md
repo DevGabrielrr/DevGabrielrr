@@ -11,16 +11,24 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGabrielrr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielrr&layout=compact&langs_count=7&theme=dark"/>
 </div>
-    -Skills
-<div style="display: inline_block"><br>
-   <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg "alt =" bootstrap "width ="50"height ="50"> 
-   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg "alt ="php" width ="50" height ="50"> 
-   <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql" width ="50"height ="50"> 
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt ="git" width ="40" height ="40"> 
+    
+    ## 💻 Technologies & Tools
 
+<p align="center">
+
+<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt ="git" width ="40" height ="40"> 
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg "alt ="php" width ="50" height ="50"> 
+<img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql" width ="50"height ="50"> 
+
+</p>
+
+   
 
  </div>
   
