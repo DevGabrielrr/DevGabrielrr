@@ -25,20 +25,9 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt ="git" width ="40" height ="40"> 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg "alt ="php" width ="50" height ="50"> 
 <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql" width ="50"height ="50"> 
-
 </p>
-
-   
-
- </div>
   
   <hr>
-  
-  <div>
-    <a href="https://www.instagram.com/bieelrodriguez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     <a href = "mailto: bieelrr4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/gabriel-rodrigues-4965881b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
     
 ####I have experience:
 ![Git](https://img.shields.io/badge/git-545967?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -52,7 +41,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-545967?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Mysql](https://img.shields.io/badge/mysql-545967?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
+
 #### Studying in this moment:
 ![Python](https://img.shields.io/badge/Python-545967?style=for-the-badge&logo=python&logoColor=white)&nbsp;
  
 </div>
+<hr>
+<div>
+    <a href="https://www.instagram.com/bieelrodriguez/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href = "mailto: bieelrr4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/gabriel-rodrigues-4965881b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
