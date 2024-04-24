@@ -27,28 +27,12 @@
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
 <img src = "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
-<img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> 
-<img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
 <img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
 </p>
   
     
-## I have experience:
-
-![HTML](https://img.shields.io/badge/HTML5-545967?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-545967?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-545967?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git-545967?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/tailwind-545967?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-545967?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![Jquery](https://img.shields.io/badge/jquery-545967?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Github](https://img.shields.io/badge/github-545967?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/php-545967?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Mysql](https://img.shields.io/badge/mysql-545967?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-
 ## Studying in this moment:
-![Python](https://img.shields.io/badge/Python-545967?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
  
 </div>
