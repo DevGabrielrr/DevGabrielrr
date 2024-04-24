@@ -8,7 +8,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/DevGabrielrr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGabrielrr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevGabrielrr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielrr&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
@@ -31,15 +32,15 @@
     
 ## I have experience:
 
-![Git](https://img.shields.io/badge/git-545967?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Github](https://img.shields.io/badge/github-545967?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/php-545967?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Jquery](https://img.shields.io/badge/jquery-545967?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-545967?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/tailwind-545967?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-545967?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-545967?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-545967?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-545967?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/tailwind-545967?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-545967?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![Jquery](https://img.shields.io/badge/jquery-545967?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![Github](https://img.shields.io/badge/github-545967?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/php-545967?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Mysql](https://img.shields.io/badge/mysql-545967?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
