@@ -49,6 +49,7 @@
 
 ## Studying in this moment:
 ![Python](https://img.shields.io/badge/Python-545967?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
  
 </div>
 <div>
