@@ -35,10 +35,7 @@
   
     
 ## Studying in this moment:
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
- 
+[![My Skills](https://skillicons.dev/icons?i=typescript,react, next)](https://skillicons.dev)
 </div>
 <div>
   
