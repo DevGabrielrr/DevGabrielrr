@@ -35,7 +35,9 @@
   
     
 ## Studying in this moment:
-[![My Skills](https://skillicons.dev/icons?i=typescript,react, next)](https://skillicons.dev)
+<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
+<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png">
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704">
 </div>
 <div>
   
