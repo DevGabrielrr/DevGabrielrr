@@ -10,10 +10,10 @@
   <!-- Gráficos -->
 <div align="center">
   <a href="https://github.com/DevGabrielrr">
-  <img width= 55% src="https://github-readme-stats.vercel.app/api?username=DevGabrielrr&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true" alt="Dev-JoseRonaldo's GitHub stats""/>
-  <img width= 41.8% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-JoseRonaldo&layout=compact&langs_count=6&&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages""/>
+  <img width= 55% src="https://github-readme-stats.vercel.app/api?username=DevGabrielrr&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true" alt="DevGabrielrr GitHub stats""/>
+  <img width= 41.8% src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielrr&layout=compact&langs_count=6&&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages""/>
   <br>
-  <a href="http://www.github.com/Dev-JoseRonaldo"><img width= 66% src= "https://github-readme-streak-stats.herokuapp.com/?user=Dev-JoseRonaldo&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/DevGabrielrr"><img width= 66% src= "https://github-readme-streak-stats.herokuapp.com/?user=DevGabrielrr&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div> 
 
     
