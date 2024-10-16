@@ -45,10 +45,10 @@
 </p>
 </div><div>
 
-
+<br>
 <!-- Troféus -->
-<p align="center">
-  <div align="center" >
+<p align="left">
+  <div align="left" >
      <img src="https://github-profile-trophy.vercel.app/?username=DevGabrielrr&row=1&column=7&theme=dracula&margin-w=15&margin-h=15"/>
   </div> 
 </p>
