@@ -3,7 +3,11 @@
 
 # 🖖 Hi, I'm Gabriel Ribeiro 👨‍💻
 
-<p>Como desenvolvedor júnior, tenho habilidades sólidas em HTML, CSS, JavaScript, Tailwind, Git, PHP e MySQL, além de familiaridade com Twig e Bootstrap. Minha paixão pela tecnologia me impulsiona a aprender e crescer constantemente, e essa jornada começou em 2021, quando dei meus primeiros passos na programação. Estou comprometido em expandir meu conhecimento e contribuir de forma significativa para projetos desafiadores.</p>
+<p>Sou um entusiasta, em busca de novos conhecimentos. Desde 2021, venho explorando a programação web, criando projetos tanto pessoais quanto profissionais para aplicar tudo que aprendo. Atualmente, Sou formado em Análise e Desenvolvimento de Sistemas, dedicando-me integralmente ao aprendizado e à prática na área.
+Ao longo do último ano, tive a oportunidade incrível de trabalhar como desenvolvedor em uma empresa onde pude não apenas aplicar meus conhecimentos teóricos, mas também adquirir valiosa experiência em projetos reais.
+Tenho experiência sólida em desenvolvimento front-end, utilizando React, Next.js, JavaScript, Tailwind CSS, Bootstrap e também em back-end, com PHP, MySQL, Twig e Git. Estou animado em continuar crescendo e contribuindo para soluções inovadoras neste campo dinâmico e desafiador.
+
+GitHub: https://github.com/DevGabrielrr</p>
 
 <!-- Estatísticas - github -->
 ## ⭐ Minhas Estatísticas - GitHub
