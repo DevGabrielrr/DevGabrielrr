@@ -7,7 +7,7 @@
 Ao longo do último ano, tive a oportunidade incrível de trabalhar como desenvolvedor em uma empresa onde pude não apenas aplicar meus conhecimentos teóricos, mas também adquirir valiosa experiência em projetos reais.
 Tenho experiência sólida em desenvolvimento front-end, utilizando React, Next.js, JavaScript, Tailwind CSS, Bootstrap e também em back-end, com PHP, MySQL, Twig e Git. Estou animado em continuar crescendo e contribuindo para soluções inovadoras neste campo dinâmico e desafiador.
 
-GitHub: https://github.com/DevGabrielrr</p>
+Meu Portifólio: [ https://github.com/DevGabrielrr](https://www.gabrielr.dev/)</p>
 
 <!-- Estatísticas - github -->
 ## ⭐ Minhas Estatísticas - GitHub
