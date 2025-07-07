@@ -3,11 +3,27 @@
 
 # 🖖 Hi, I'm Gabriel Ribeiro 👨‍💻
 
-<p>Sou um entusiasta, em busca de novos conhecimentos. Desde 2021, venho explorando a programação web, criando projetos tanto pessoais quanto profissionais para aplicar tudo que aprendo. Atualmente, Sou formado em Análise e Desenvolvimento de Sistemas, dedicando-me integralmente ao aprendizado e à prática na área.
-Ao longo do último ano, tive a oportunidade incrível de trabalhar como desenvolvedor em uma empresa onde pude não apenas aplicar meus conhecimentos teóricos, mas também adquirir valiosa experiência em projetos reais.
-Tenho experiência sólida em desenvolvimento front-end, utilizando React, Next.js, JavaScript, Tailwind CSS, Bootstrap e também em back-end, com PHP, MySQL, Twig e Git. Estou animado em continuar crescendo e contribuindo para soluções inovadoras neste campo dinâmico e desafiador.
+<p>💻 Desenvolvedor Web | Front-end & Back-end | React | Next.js | PHP | MySQL
 
-Meu Portifólio: [ https://github.com/DevGabrielrr](https://www.gabrielr.dev/)</p>
+Tenho me dedicado ao desenvolvimento web desde 2021, criando projetos pessoais e profissionais que me ajudam a colocar em prática o que aprendo e a evoluir constantemente.
+
+Atualmente, estou no último semestre da graduação em Análise e Desenvolvimento de Sistemas, focado em aprimorar minhas habilidades técnicas e contribuir com soluções eficientes e bem construídas.
+
+Tive a oportunidade de atuar como desenvolvedor em uma empresa, onde pude aplicar meus conhecimentos em projetos reais, ganhando experiência prática valiosa e aprendendo a colaborar em equipe.
+
+Tenho experiência sólida em desenvolvimento front-end, utilizando:
+
+React, Next.js, JavaScript, Tailwind CSS
+
+E também no back-end, com:
+
+PHP, MySQL, Twig
+
+Versionamento de código com Git
+
+📌 Estou em busca de novos desafios onde eu possa continuar aprendendo, evoluindo como profissional e contribuindo para projetos que gerem impacto.
+
+🔗 GitHub: https://github.com/DevGabrielrr</p>
 
 <!-- Estatísticas - github -->
 ## ⭐ Minhas Estatísticas - GitHub
