@@ -4,13 +4,7 @@
 # 🖖 Hi, I'm Gabriel Ribeiro 👨‍💻
 
 <p>💻 Desenvolvedor Web | Front-end & Back-end | React | Next.js | PHP | MySQL
-
-Tenho me dedicado ao desenvolvimento web desde 2021, criando projetos pessoais e profissionais que me ajudam a colocar em prática o que aprendo e a evoluir constantemente.
-
-Atualmente, estou no último semestre da graduação em Análise e Desenvolvimento de Sistemas, focado em aprimorar minhas habilidades técnicas e contribuir com soluções eficientes e bem construídas.
-
-Tive a oportunidade de atuar como desenvolvedor em uma empresa, onde pude aplicar meus conhecimentos em projetos reais, ganhando experiência prática valiosa e aprendendo a colaborar em equipe.
-
+  
 Tenho experiência sólida em desenvolvimento front-end, utilizando:
 
 React, Next.js, JavaScript, Tailwind CSS
