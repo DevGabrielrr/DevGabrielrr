@@ -17,8 +17,6 @@ Versionamento de código com Git
 
 📌 Estou em busca de novos desafios onde eu possa continuar aprendendo, evoluindo como profissional e contribuindo para projetos que gerem impacto.
 
-🔗 GitHub: https://github.com/DevGabrielrr</p>
-
 <!-- Estatísticas - github -->
 ## ⭐ Minhas Estatísticas - GitHub
   <!-- Gráficos -->
