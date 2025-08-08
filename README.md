@@ -3,19 +3,19 @@
 
 # 🖖 Hi, I'm Gabriel Ribeiro 👨‍💻
 
-<p>💻 Desenvolvedor Web | Front-end & Back-end | React | Next.js | PHP | MySQL
-  
-Tenho experiência sólida em desenvolvimento front-end, utilizando:
+<p>💻 Web Developer | Front-end & Back-end | React | Next.js | PHP | MySQL
+
+I have solid experience in front-end development, using:
 
 React, Next.js, JavaScript, Tailwind CSS
 
-E também no back-end, com:
+And also in the back-end, with:
 
 PHP, MySQL, Twig
 
-Versionamento de código com Git
+Code versioning with Git
 
-📌 Estou em busca de novos desafios onde eu possa continuar aprendendo, evoluindo como profissional e contribuindo para projetos que gerem impacto.
+📌 I'm looking for new challenges where I can continue learning, evolving as a professional, and contributing to projects that generate impact.
 
 <!-- Estatísticas - github -->
 ## ⭐ Minhas Estatísticas - GitHub
